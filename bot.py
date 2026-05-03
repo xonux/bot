@@ -27,7 +27,7 @@ async def on_ready():
         status=discord.Status.online,
         activity=discord.Activity(
             type=discord.ActivityType.watching,
-            name="les messages 👀"
+            name="working if online"
         )
     )
 
